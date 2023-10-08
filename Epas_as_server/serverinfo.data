@@ -1,0 +1,6 @@
+#server port user password allowed-ips authentication-mode
+epas14 5448 enterprisedb edb 0.0.0.14/0 trust
+epas13 5447 enterprisedb edb 0.0.0.13/0 trust
+epas12 5446 enterprisedb edb 0.0.0.12/0 trust
+epas11 5445 enterprisedb edb 0.0.0.11/0 trust
+epas10 5444 enterprisedb edb 0.0.0.10/0 trust

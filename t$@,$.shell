@@ -1,0 +1,36 @@
+#!/bin/sh
+
+# in normal usage like below there is not differce betw $@ and $*
+echo $@
+echo $*
+
+for value in $@
+do
+	echo $value
+
+done
+
+for value in $*
+do
+	echo $value
+
+done
+
+# when it is used like "$@" and "$*" then first one gives a list of arguments and second one a string   
+echo " "
+
+echo using '$@'
+for value in "$@"
+do
+echo $value
+echo "hello2"
+done
+
+echo " "
+
+echo uing '$*'
+for value in "$*"
+do
+echo $value
+echo "hello"
+done

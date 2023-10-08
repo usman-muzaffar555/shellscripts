@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d9fa678-e230-4b71-9869-f13259848d33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2AyynxFkArjmqI4MsasPlk8F7Uk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunInstallServer" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/installASServer.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d9fa678-e230-4b71-9869-f13259848d33" name="Default Changelist" comment="" />
+      <created>1655996289853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655996289853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="267" key="#RunInstallServer" timestamp="1655996540992">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="607" y="267" key="#RunInstallServer/0.25.1792.1033@0.25.1792.1033" timestamp="1655996540992" />
+    <state x="607" y="267" key="#Unnamed" timestamp="1655996440080">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="607" y="267" key="#Unnamed/0.25.1792.1033@0.25.1792.1033" timestamp="1655996440080" />
+    <state x="360" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655996423698">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="360" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1033@0.25.1792.1033" timestamp="1655996423698" />
+    <state x="397" y="177" key="SettingsEditor" timestamp="1655997200466">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="397" y="177" key="SettingsEditor/0.25.1792.1033@0.25.1792.1033" timestamp="1655997200466" />
+    <state x="573" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1663069115488">
+      <screen x="0" y="25" width="1792" height="1033" />
+    </state>
+    <state x="573" y="363" key="com.intellij.ide.util.TipDialog/0.25.1792.1033@0.25.1792.1033" timestamp="1663069115488" />
+  </component>
+</project>
