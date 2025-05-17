@@ -1,3 +1,5 @@
+# ---------------------------------------------------------------------------
+# Double bracket is available in bash, zsh only 
 # if <,> are being used in if statement, then use double brackts instead of single brackets
 # if pattern matches required like "var" == "var2"* , then use double brackets
 
@@ -20,6 +22,8 @@ fi
 if [[ $file == "test" ]]; then 
     echo "File is test"
 fi
+
+#----------------------------------------------------------------
 
 abc="10:10"
 def=10
